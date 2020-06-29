@@ -1,7 +1,7 @@
 import React from 'react'
 import './styles.css'
 import {Link, useHistory} from 'react-router-dom'
-import fundo from '../../assets/jessicalogin.jpg'
+import fundo from '../../assets/fundo.png'
 import logo from '../../assets/logo.png'
 
 export default function Login(){
