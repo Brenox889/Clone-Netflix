@@ -1,0 +1,68 @@
+@font-face{
+    font-family: 'Roboto';
+    src:url(../../fonts/Roboto-Medium.ttf)
+}
+.container{
+    font-family: 'Roboto';
+}
+.backLogin{
+    margin:0;
+}
+.backLogin img{
+    position: relative;
+    z-index: 0;
+    width: 101.2vmax;
+    height:100vh;
+    margin: -5vw 0 0 -3vw;
+}
+.logo{
+    position: absolute;
+    float: left;
+    z-index: 1;
+    height: 74px;
+    width: 167px;
+    left: 3vw;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+form h1{
+    color:#fff;
+}
+input{
+    background: #333;
+    color:#fff;
+    padding: 10px;
+    border:0;
+    border-radius: 4px;
+    width:110%;
+}
+.password{
+    position: relative;
+    top:0.8vw;
+    
+}
+.boxLogin{
+    background-color: rgba(0,0,0,.75);
+    width:320px;
+    height:370px;
+    position: relative;
+    margin:-32vw 0 0 35vw;
+}
+.main-login{
+    position: absolute;
+    margin:3vw 0 0 4.5vw;
+    
+}
+.login{
+    background-color: #e50914;
+    color:#fff;
+    width:110%;
+    top:3vw;
+    position: relative;
+    padding: 8px;
+    text-align: center;
+    border-radius: 4px;
+    text-decoration: none;
+}

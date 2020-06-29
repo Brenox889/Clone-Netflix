@@ -1,0 +1,134 @@
+@font-face{
+    font-family: 'Roboto';
+    src:url(../../fonts/Roboto-Medium.ttf)
+}
+.comeToNetflix{
+    font-family: 'Roboto';
+}
+.enterOn img{
+    position: absolute;
+    float: left;
+    z-index: 1;
+    height: 74px;
+    width: 154px;
+    left: 3vw;
+}
+.enterOn .log{
+    font-family: 'Roboto';
+    color: #fff;
+    background-color: #e50914;
+    line-height: normal;
+    float: right;
+   position: relative;
+    padding: 7px 17px;
+    z-index: 1;
+    margin-top: 1vw;
+    border-radius: 3px;
+    text-decoration: none;
+    right:5vw;
+}
+
+.backgroundNetflix{
+    margin:0;
+    
+}
+.backgroundNetflix img{
+    position: relative;
+    z-index: 0;
+    width: 101.2vmax;
+    height:100vh;
+    margin: -5vw 0 0 -3vw;
+}
+.firstMonth{
+    background-color: rgba(0, 0, 0, 0.24);
+    margin: -33vw 0 0 3vw;
+    position: relative;
+    width:450px;
+}
+.firstMonth h2{
+    font-size: 45px;
+    color: #fff;
+}
+.firstMonth p{
+    top:-2vw;
+    font-size: 15px;
+    color: #fff;
+    position: relative;
+}
+.month{
+    font-family: 'Roboto';
+    color: #fff;
+    background-color: #e50914;
+    line-height: normal;
+    
+   
+    padding: 7px 17px;
+    z-index: 1;
+    margin: 9vw 0 0 0;
+    border-radius: 3px;
+    text-decoration: none;
+    right:5vw;
+}
+.aboutUs{
+    margin: 13vw 0 0 0;
+}
+.informations{
+    background-color: #000;
+    height:30vw;
+    position: relative;
+    margin:0 0 0 -2vw;
+    width:100.2vw;
+    border-top: 8px solid #333;
+    
+}
+.informations h1{
+    color:#fff;
+    font-size: 35px;
+    margin:4vw;
+}
+.informations p{
+    color:#fff;
+    font-size: 25px;
+    width:400px;
+    margin: 10vw 0 0 10vw;
+    position: absolute;
+}
+.titleLeft{
+    float: left;
+    left: 5vw;
+    position: relative;
+}
+.tv{
+    left:29vw;
+    position: relative;
+    top:1vw;
+    width:402.467px;
+    height:302px;
+}
+.title2{
+    float: right;
+    right:5vw;
+    position: relative;
+    top:5vw;
+}
+.text2{
+    float: right;
+    right:15vw;
+    position: relative;
+    top:5vw;
+}
+.mobile{
+    top:1vw;
+    position: relative;
+    width:442.667px;
+    height:342px;
+    left:5vw;
+    float:left;
+}
+.devices{
+    left:20vw;
+    position: relative;
+    top:2vw;
+    width:402.667px;
+    height:302px;
+}
